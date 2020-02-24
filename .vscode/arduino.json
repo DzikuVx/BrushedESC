@@ -2,5 +2,6 @@
     "sketch": "brushed_esc.ino",
     "board": "sparkfun:avr:promicro",
     "configuration": "cpu=16MHzatmega32U4",
-    "port": "COM19"
+    "port": "COM3",
+    "output": "../build"
 }
